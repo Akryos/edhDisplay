@@ -44,7 +44,7 @@ function getColorSymbol(identity, color) {
 }
 
 const cardTemplate = `<div class="col s12 m3">
-<div class="card large">
+<div class="card hoverable large">
     <div class="card-image waves-effect waves-block waves-light">
         <img class="activator" src="images/cmdr/{{IMAGE}}.png">
     </div>
