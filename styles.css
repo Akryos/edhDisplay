@@ -1,5 +1,5 @@
-.card {
-    width: 400px;
+#cardHolder {
+    width: 90%;
 }
 
 ul > li {
