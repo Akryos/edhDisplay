@@ -5,3 +5,12 @@
 ul > li {
     list-style-type: disc !important;
 }
+
+.colorSymbol {
+    float: left;
+    height: 16px;
+}
+
+.colorSymbol.absent {
+    opacity: 0.25;
+}

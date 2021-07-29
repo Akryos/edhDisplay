@@ -2,6 +2,7 @@ var cmdrList = [
     {
         image: 'ayli',
         fullname: 'Ayli, Eternal Pilgrim',
+        colors: 'wb',
         level: '4',
         style: '',
         wincons: '',
@@ -10,6 +11,7 @@ var cmdrList = [
     }, {
         image: 'bruna',
         fullname: 'Bruna, Light of Alabaster',
+        colors: 'wu',
         level: '5',
         style: 'Votron',
         wincons: 'Cmdr Dmg',
@@ -18,6 +20,7 @@ var cmdrList = [
     }, {
         image: 'tazri',
         fullname: 'General Tazri',
+        colors: 'wubrg',
         level: '9+',
         style: 'Fast Combo',
         wincons: 'Food Chain, THORacle',
@@ -26,6 +29,7 @@ var cmdrList = [
     }, {
         image: 'radha',
         fullname: 'Grand Warlord Radha',
+        colors: 'rg',
         level: '0',
         style: '',
         wincons: '',
@@ -34,6 +38,7 @@ var cmdrList = [
     }, {
         image: 'jhoira',
         fullname: 'Jhoira, Weatherlight Captain',
+        colors: 'ur',
         level: '7-8',
         style: 'Artifact Storm',
         wincons: 'Aetherflux Reservoir, Labman',
@@ -42,6 +47,7 @@ var cmdrList = [
     }, {
         image: 'lavinia',
         fullname: 'Lavinia of the Tenth',
+        colors: 'wu',
         level: '0',
         style: '',
         wincons: '',
@@ -50,6 +56,7 @@ var cmdrList = [
     }, {
         image: 'maelstromWanderer',
         fullname: 'Maelstrom Wanderer',
+        colors: 'urg',
         level: '0',
         style: '',
         wincons: '',
@@ -58,6 +65,7 @@ var cmdrList = [
     }, {
         image: 'mayael',
         fullname: 'Mayael the Anima',
+        colors: 'wrg',
         level: '0',
         style: '',
         wincons: '',
@@ -66,6 +74,7 @@ var cmdrList = [
     }, {
         image: 'mishra',
         fullname: 'Mishra, Artificer Prodigy',
+        colors: 'ubr',
         level: '0',
         style: '',
         wincons: '',
@@ -74,6 +83,7 @@ var cmdrList = [
     }, {
         image: 'nath',
         fullname: 'Nath of the Gilt-Leaf',
+        colors: 'bg',
         level: '0',
         style: '',
         wincons: '',
@@ -82,6 +92,7 @@ var cmdrList = [
     }, {
         image: 'oona',
         fullname: 'Oona, Queen of the Fae',
+        colors: 'ub',
         level: '0',
         style: '',
         wincons: '',
@@ -90,6 +101,7 @@ var cmdrList = [
     }, {
         image: 'vannifar',
         fullname: 'Prime Speaker Vannifar',
+        colors: 'ug',
         level: '0',
         style: '',
         wincons: '',
@@ -98,6 +110,7 @@ var cmdrList = [
     }, {
         image: 'ruricThar',
         fullname: 'Ruric Thar, the Unbowed',
+        colors: 'rg',
         level: '8',
         style: 'Stax/Battlecruiser',
         wincons: 'Kiki-Combo, Beatdown, Punishing Effects',
@@ -106,6 +119,7 @@ var cmdrList = [
     }, {
         image: 'senTriplets',
         fullname: 'Sen Triplets',
+        colors: 'wub',
         level: '0',
         style: '',
         wincons: '',
@@ -114,6 +128,7 @@ var cmdrList = [
     }, {
         image: 'slimefoot',
         fullname: 'Slimefoot, the Stowaway',
+        colors: 'bg',
         level: '0',
         style: '',
         wincons: '',
@@ -122,6 +137,7 @@ var cmdrList = [
     }, {
         image: 'sythis',
         fullname: 'Sythis, Harvest\'s Hand',
+        colors: 'wg',
         level: '0',
         style: '',
         wincons: '',
@@ -130,6 +146,7 @@ var cmdrList = [
     }, {
         image: 'tanaTymna',
         fullname: 'Tana, the Bloodsower / Tymna the Weaver',
+        colors: 'wbrg',
         level: '9+',
         style: '',
         wincons: '',
@@ -138,6 +155,7 @@ var cmdrList = [
     }, {
         image: 'trostani',
         fullname: 'Trostani, Selesnya\'s Voice',
+        colors: 'wg',
         level: '5',
         style: 'Lifegain/Battlecruiser',
         wincons: 'Aetherflux Reservoir/Beatdown',
@@ -146,6 +164,7 @@ var cmdrList = [
     }, {
         image: 'uyo',
         fullname: 'Uyo, Silent Prophet',
+        colors: 'u',
         level: '6',
         style: 'Spellslinger',
         wincons: 'Labman/Jace, Draw them out',
