@@ -55,7 +55,7 @@ const cardTemplate = `<div class="col s12 m3">
         </span>
         <p>
             <span>Colors</span>
-            <span style="float: right;">
+            <span>
                 {{WHITE}}
                 {{BLUE}}
                 {{BLACK}}
@@ -65,15 +65,15 @@ const cardTemplate = `<div class="col s12 m3">
         </p>
         <p>
             <span>Powel-Level</span>
-            <span style="float: right;">{{POWER_LEVEL}}</span>
+            <span>{{POWER_LEVEL}}</span>
         </p>
         <p>
             <span>Play-Style</span>
-            <span style="float: right;">{{PLAY_STYLE}}</span>
+            <span>{{PLAY_STYLE}}</span>
         </p>
         <p>
             <span>Win-Cons</span>
-            <span style="float: right;">{{WIN_CONS}}</span>
+            <span>{{WIN_CONS}}</span>
         </p>
     </div>
     <div class="card-reveal">

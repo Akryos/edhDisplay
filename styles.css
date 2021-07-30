@@ -6,12 +6,27 @@ body {
     width: 90%;
 }
 
+.card .card-content p {
+    display: flex;
+    margin: 4px 0px;
+    border-bottom: 1px solid rgba(99,99,99,0.25);
+}
+
+.card .card-content p span:first-of-type {
+    width: 30%;
+}
+
+.card .card-content p span:last-of-type {
+    width: 70%;
+    text-align: right;
+}
+
 ul > li {
     list-style-type: disc !important;
 }
 
 .colorSymbol {
-    float: left;
+    float: revert;
     height: 16px;
 }
 
